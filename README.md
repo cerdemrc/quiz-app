@@ -1,24 +1,3 @@
-# q
+<h3>DEMO: https://cerdemrc.github.io/quiz-app/</h3>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://user-images.githubusercontent.com/40372039/103096594-7ec48d00-4615-11eb-878e-020cbe4f6af1.png">
